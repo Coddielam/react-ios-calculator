@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ios-calculator/static/css/main.a9515e0e.chunk.css",
+    "main.js": "/react-ios-calculator/static/js/main.4d9ee55c.chunk.js",
+    "main.js.map": "/react-ios-calculator/static/js/main.4d9ee55c.chunk.js.map",
+    "runtime-main.js": "/react-ios-calculator/static/js/runtime-main.140343d7.js",
+    "runtime-main.js.map": "/react-ios-calculator/static/js/runtime-main.140343d7.js.map",
+    "static/js/2.84e235a1.chunk.js": "/react-ios-calculator/static/js/2.84e235a1.chunk.js",
+    "static/js/2.84e235a1.chunk.js.map": "/react-ios-calculator/static/js/2.84e235a1.chunk.js.map",
+    "index.html": "/react-ios-calculator/index.html",
+    "precache-manifest.936d8ad68980c55febd9eaea461ea48e.js": "/react-ios-calculator/precache-manifest.936d8ad68980c55febd9eaea461ea48e.js",
+    "service-worker.js": "/react-ios-calculator/service-worker.js",
+    "static/css/main.a9515e0e.chunk.css.map": "/react-ios-calculator/static/css/main.a9515e0e.chunk.css.map",
+    "static/js/2.84e235a1.chunk.js.LICENSE.txt": "/react-ios-calculator/static/js/2.84e235a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.140343d7.js",
+    "static/js/2.84e235a1.chunk.js",
+    "static/css/main.a9515e0e.chunk.css",
+    "static/js/main.4d9ee55c.chunk.js"
+  ]
+}

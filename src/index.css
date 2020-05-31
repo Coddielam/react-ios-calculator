@@ -15,7 +15,7 @@ body {
 }
 
 #calculator {
-  width: 300px;
+  height: 444px;
   padding: 5px;
   display: flex;
   flex-direction: column;
@@ -26,21 +26,22 @@ body {
 }
 
 #screen {
-  height: 90px;
+  height: 77px;
   color: white;
   display: flex;
   align-items: flex-end;
   justify-content: flex-end;
-  font-size: 16px;
+  font-size: 42px;
   padding-right: 20px;
   border-radius: 8px;
+  margin-top: 15px;
 }
 
 #keyboard {
   display: grid;
   flex-direction: column;
-  height: 330px;
-  width: 290px;
+  height: 400px;
+  width: 300px;
   grid-template-columns: auto auto auto auto;
   grid-template-rows: auto auto auto auto auto;
   justify-content: space-evenly;

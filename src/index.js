@@ -69,7 +69,7 @@ class Calculator extends React.Component {
         });
       }
     } else if (this.state.operand !== null) {
-      this.setState({ changeSreen: true });
+      this.setState({ changeSreen: false });
       document.getElementById("screen").innerText = number;
     }
   }
